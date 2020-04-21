@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Example content"
+title: "My First Post"
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.

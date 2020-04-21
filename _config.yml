@@ -1,12 +1,12 @@
-title: Cayman Blog Theme
-description: Cayman Blog Theme is a clean, responsive blogging theme for Jekyll and Gitlab/GitHub Pages.
+title: Mohit's Blog
+description: 
 show_downloads: true
 
-baseurl: "/cayman-blog" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-url: "https://lorepirri.github.io" # change this to the base hostname & protocol for your site
+baseurl: "/my-blog" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+url: "https://m2kulkarni.github.io" # change this to the base hostname & protocol for your site
 
 
-google_analytics:
+google_analytics: "UA-154007714-1"
 
 # cayman-blog date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -16,10 +16,10 @@ cayman-blog:
 theme: # leave it empty
 
 # social
-author: lorepirri
+author: Mohit Kulkarni
 image: /thumbnail-jumbo.png
 twitter:
-  username: lorepirri
+  username: 
 
 plugins:
   - jekyll-target-blank

@@ -2,7 +2,7 @@
 layout: page
 title: About
 tagline: A few more words about this theme
-permalink: /about.html
+permalink: /internet.html
 ref: about
 order: 0
 ---
