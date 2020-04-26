@@ -6,6 +6,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
+tagline: I rant on random things that interest me.
 ---
 
 #### This is my personal blog based on [Cayman Blog Theme](https://github.com/lorepirri/cayman-blog "Github Page").

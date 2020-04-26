@@ -10,4 +10,4 @@ order: 0
 Nothing here yet. Care to share your favourite places?
 
 
-[Go to the Home Page]({{ '/' | absolute_url }})
+[Go to the Home Page](https://m2kulkarni.github.io)
